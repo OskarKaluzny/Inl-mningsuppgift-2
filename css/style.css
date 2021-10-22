@@ -1,0 +1,15 @@
+*{
+    border: 0;
+    margin: 0;
+}
+body{
+    border: 2px solid black;
+    height: 100vh;
+    }
+.header{
+    border-bottom: 2px solid black;
+}    
+.header img{
+width: 30%;
+height: 200px;
+}    
