@@ -23,9 +23,24 @@ body{
     color: white;
 }    
 .header img{
+padding: 20px;    
 width: 30%;
 height: 200px;
 }    
 .navbar{
     margin-left: 10px;
 }
+.div-all-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+#bild-section{
+    color: red;
+}
+#bild-section img{
+    width: 60vh;
+    height: 90%;
+}
+
