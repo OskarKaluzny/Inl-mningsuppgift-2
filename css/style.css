@@ -33,23 +33,38 @@ height: 200px;
 #bild-section{
     margin: 10px;
     padding: 0;
-    height: auto;
-    width: 60%;
+    height: 95vh;
+    width: 70%;
     }
 #bild-section img{
     width: 100%;
     height: 100%;
     }
 .right-column{
-    display: flex;
-    align-items: center;
-    width: 250px;
-    background-color: green;
     
+    align-items: center;
+    width: 25%;
+    height: 95vh;
+    margin-right: 10px;
 }
 #rubrik-section{
-    display: table-header-group;
-    height: 50%;
+text-align: center;
+  border: 2px solid black;
+ background-color: blue;
+ margin-bottom: 100px;
+}
+#bördtext-section{
+    margin: auto;
+    text-align: center;
+    height: 70vh;
+    border: 2px solid black;
+    background-color: turquoise;
+    margin-bottom: 100px;
+}
+#knapp-section{
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
     
 }
 
